@@ -1,4 +1,9 @@
 {
-  "ExpandedNodes": [],
+  "ExpandedNodes": [
+    "",
+    "\\Cloud",
+    "\\Cloud\\Terraform-Projects-master\\.devcontainer"
+  ],
+  "SelectedNode": "\\Cloud\\Terraform-Projects-master",
   "PreviewInSolutionExplorer": false
 }
